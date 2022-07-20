@@ -1,7 +1,26 @@
 # entregafinal-uzcategui
-# Clase 12 Entregable Utilizando Firebase Desafío: Item Collection II
+# FinalProyect Entregable Utilizando Firebase 
 
-Se vizalizan los productos seleccionados en la pagina del carrito de compras, se realizaron todas las funcionalidades acerca del mismo, se crea el componente del formulario de la orden de compras, se usa libreria de formularios y validacion, se logra realizar la generacion de la orden de compras, realizando persistencia de data en firebase/firestore...
+El Proyecto de ecommerce del curso React.js, de Coderhouse.
+
+Implementacion base de un carrito de compras utilizando como persistencia la base de datos firebase.
+
+se implementan servicios CRUD para las ordenes de los usuarios, se implementa Auth de firebase
+autenticacion de usuarios, mediane e API de firebase, el login es posible creando un registro del tipo email contraseña y usando el provider de google.
+El código está escrito en typescript...
+se utiliza una libreria para validar los diferentes formularios que aparecen en la aplicacion, a saber, el de las ordenes de pago-pedidos y el de registrar al usuario.
+
+# Final Project English...
+
+The ecommerce project of the React.js course, from Coderhouse.
+
+Base implementation of a shopping cart using the firebase database as persistence.
+
+CRUD services are implemented for user orders, firebase Auth is implemented.
+user authentication, using firebase API, the login is possible by creating an email password and using the google provider.
+
+A library is used to validate the different forms that appear in the application, namely the payment-order form and the user registration form.
+
 
 ## Getting Started with Create React App
 
